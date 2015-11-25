@@ -1,0 +1,4 @@
+{"version":3,"sources":["_general.scss","_home.scss","_variables.scss"],"names":[],"mappings":"AAAA,CAAA,CACE,KAAA,CAAA,MAAa,CACd,ACFD,EAAA,CACE,KAAA,CAAA,OCDY,CDEb,AACD,IAAA,CACE,UAAA,CAAA,GAAe,CACf,OAAA,CAAA,WAAc,CAAd,OAAA,CAAA,YAAc,CAAd,OAAA,CAAA,QAAc,CAAd,OAAA,CAAA,WAAc,CAAd,OAAA,CAAA,IAAc,CACd,qBAAA,CAAA,GAAmB,CAAnB,kBAAA,CAAA,GAAmB,CAAnB,aAAA,CAAA,GAAmB,CACnB,MAAA,CAAA,gBAAwB,CACzB","file":"gg.css","sourcesContent":["p{\n  color:yellow;\n}\n","h2{\n  color:$green;\n}\nbody{\n  background:red;\n  display: flex;\n  border-radius: 8px;\n  border:1px dashed white;\n}\n","$green:#48910f;\n$grey:#e2e2e2;\n$darkgrey:#323232;\n$black:#000000;\n"],"sourceRoot":"/source/"}
+p{color:yellow}h2{color:#48910f}body{background:red;display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex;-webkit-border-radius:8px;-moz-border-radius:8px;border-radius:8px;border:1px dashed white}
+
+/*# sourceMappingURL=sourcemaps/gg.css.map */

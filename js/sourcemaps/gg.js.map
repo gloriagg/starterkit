@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js","others.js"],"names":["console","log"],"mappings":"AAAAA,QAAQC,IAAI,SACZD,QAAQC,IAAI;ACDZD,QAAQC,IAAI,SACZD,QAAQC,IAAI","file":"gg.js","sourcesContent":["console.log('line1');\nconsole.log('line2');\n","console.log('line3');\nconsole.log('line77');\n"],"sourceRoot":"/source/"}
